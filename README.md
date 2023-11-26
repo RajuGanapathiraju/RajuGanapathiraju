@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**RajuGanapathiraju/RajuGanapathiraju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Raju Ganapthiraju
 
-Here are some ideas to get you started:
+A Senior Security Engineer with expertise in various security domains. Here are some of my key skills and areas of interest:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Performing DAST, SAST, Threat Modeling for Web, Android and API
+- Security Automation
+- Security Tool Development
+- AWS Cloud Security and Security Monitoring
+- Application Development & Web Exploit Development
+
+In my free time, I love to hunt for bugs and responsibly disclose them to the respective companies.
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/rajuganapathiraju7/) or [youtube](https://www.youtube.com/@DevSecHacker)https://www.youtube.com/@DevSecHacker).
+
+
