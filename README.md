@@ -5,8 +5,7 @@
 A Senior Security Engineer with expertise in various security domains. Here are some of my key skills and areas of interest:
 
 - Performing DAST, SAST, Threat Modeling for Web, Android and API
-- Security Automation
-- Security Tool Development
+- Security Automation & Tool Development
 - AWS Cloud Security and Security Monitoring
 - Application Development & Web Exploit Development
 
