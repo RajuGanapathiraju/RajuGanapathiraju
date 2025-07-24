@@ -11,7 +11,7 @@ In my free time, I love to do security tool development, security automations & 
 
 ## Security Recognition
 
-[![IBM Hall of Fame](https://www.ibm.com/support/pages/ibm-product-security-incident-response-team-news)
+[IBM Hall of Fame](https://www.ibm.com/support/pages/ibm-product-security-incident-response-team-news)
 
 - 🛡️ Acknowledged by IBM responsible disclosure.
 - 🏅 Listed under **Raju Ganapathiraju** in IBM’s Product Security Hall of Fame.
