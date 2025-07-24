@@ -9,7 +9,7 @@ I'm Raju Ganapthiraju, a Senior Security Engineer with a passion for cybersecuri
 
 In my free time, I love to do security tool development, security automations & hunt for bugs and responsibly disclose them to the respective companies.
 
-## 🏆 Security Recognition
+## Security Recognition
 
 [![IBM Hall of Fame](https://www.ibm.com/support/pages/ibm-product-security-incident-response-team-news)
 
