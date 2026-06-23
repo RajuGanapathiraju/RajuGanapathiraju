@@ -12,6 +12,10 @@ In my free time, I love to do security tool development, security automation, AI
 
 ## 🏆 Security Recognition
 
+[CVE-2026-53711](https://github.com/IBM/mcp-context-forge/security/advisories/GHSA-x6gc-rm5j-55mw)
+
+- 🛡️ Discovered and responsibly disclosed a vulnerability in open source project; issue remediated and publicly disclosed through GitHub Security Advisories.
+
 [IBM Hall of Fame](https://www.ibm.com/support/pages/ibm-product-security-incident-response-team-news)
 
 - 🛡️ Acknowledged by IBM for responsible disclosure.
