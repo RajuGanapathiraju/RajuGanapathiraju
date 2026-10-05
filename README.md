@@ -2,7 +2,7 @@
 
 I'm **Raju Ganapathiraju**, a Senior Security Engineer with a passion for cybersecurity and a strong focus on **AI Security**. Here are some of my key skills and areas of interest:
 
-- 🤖 **AI Security** — AI Red Teaming, LLM Security (OWASP LLM Top 10), MCP Penetration Testing, AI Threat Modeling, AI-assisted Secure Code Review
+- 🤖 **AI Security** — AI Red Teaming, LLM Security (OWASP LLM Top 10), MCP Penetration Testing, AI Threat Modeling, AI-assisted Secure Code Review, AI SDLC and AI for Security. 
 - 🔍 Application Security — DAST, SAST, Threat Modeling for Web, Android, and APIs
 - 🛠️ Security Automation & Tool Development (including custom Claude skills for security workflows)
 - ☁️ AWS Cloud Security and 🕵️‍♂️ Security Monitoring
